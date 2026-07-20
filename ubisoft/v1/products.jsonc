@@ -9,7 +9,15 @@
       17860, // UNO - Fenyx's Quest Theme Cards
       17942, // UNO - 50th Anniversary Theme Cards
       59689, // UNO - The Call of Yara Theme Cards
-      60710 // UNO - AC Valhalla Theme Cards
+      60710, // UNO - AC Valhalla Theme Cards
+      61887,
+      61888,
+      64082, // Uno Party Mania
+      66507, // Show Em No Mercy!
+      66826,
+      66857, // Brawlhalla Cosmetic Pack
+      67541, // Shovel Knight Theme
+      67792
     ],
     "items": [
       61887
@@ -425,10 +433,10 @@
   "5405|62326": {
     "name": "Immortals Fenyx Rising",
     "dlcs": [
-      5490,
-      5491,
+      5490, // DLC: A New God
+      5491, // DLC: Myths of the Eastern Realm
       5492,
-      5519,
+      5519, // DLC: Pre-order Quest
       5520,
       5521,
       5522,
@@ -452,8 +460,8 @@
       5540,
       5541,
       5542,
-      5723,
-      5724,
+      5723, // DLC: The Lost Gods
+      5724, // Season Pass
       60478
     ],
     "items": [
