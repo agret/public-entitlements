@@ -10,14 +10,14 @@
       17942, // UNO - 50th Anniversary Theme Cards
       59689, // UNO - The Call of Yara Theme Cards
       60710, // UNO - AC Valhalla Theme Cards
-      61887,
-      61888,
+      61887, // ???
+      61888, // ???
       64082, // Uno Party Mania
       66507, // Show Em No Mercy!
-      66826,
+      66826, // ???
       66857, // Brawlhalla Cosmetic Pack
       67541, // Shovel Knight Theme
-      67792
+      67792  // ???
     ],
     "items": [
       61887
@@ -158,7 +158,7 @@
     "name": "Far Cry 6",
     "dlcs": [
       13652,
-      13653,
+      13653, // HD Texture Pack
       13654,
       13655,
       13656,
@@ -473,6 +473,54 @@
       5512,
       5513,
       5514
+    ]
+  },
+  "6101": {
+    "name": "Assassin's Creed: Mirage",
+    "dlcs": [
+      6119, 
+      6120, 
+      6121, 
+      6122, 
+      6123, 
+      6124, 
+      6125, 
+      6126, 
+      6127, 
+      6128, 
+      6129, 
+      6130, 
+      6132, 
+      6133, 
+      6148, 
+      61857, // DLC: Deluxe Pack
+      61858, // DLC: The Forty Thieves
+      61859, // DLC: Lightning Pack
+      61860, // DLC: Djinn Pack
+      61861, // DLC: Fire Demon Pack
+      61862, // DLC: Map Pack
+      61863, 
+      61883, 
+      62815, 
+      62987, // DLC: Master Assassin Pack
+      62988, // DLC: Guardian Pack
+      63158, 
+      63159, 
+      63166, 
+      63225, 
+      63226, 
+      63227, 
+      63228, 
+      63230, 
+      63231, 
+      63232, 
+      63233, 
+      63628, 
+      63800, 
+      65787, 
+      65788
+    ],
+    "items": [
     ]
   },
   "13504|7013": {
