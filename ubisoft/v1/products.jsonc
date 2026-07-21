@@ -478,20 +478,20 @@
   "6101": {
     "name": "Assassin's Creed: Mirage",
     "dlcs": [
-      6119, 
-      6120, 
-      6121, 
-      6122, 
-      6123, 
-      6124, 
-      6125, 
-      6126, 
-      6127, 
-      6128, 
-      6129, 
-      6130, 
-      6132, 
-      6133, 
+      6119, // Language Pack: en-US
+      6120, // Language Pack: fr-FR
+      6121, // Language Pack: de-DE
+      6122, // Language Pack: it-IT
+      6123, // Language Pack: es-ES
+      6124, // Language Pack: es-MX
+      6125, // Language Pack: pt-BR
+      6126, // Language Pack: ja-JP
+      6127, // Language Pack: ar-AA
+      6128, // Language Pack: pl-PL
+      6129, // Language Pack: ru-RU
+      6130, // Language Pack: ko-KR 
+      6132, // Language Pack: zh-TW
+      6133, // Language Pack: zh-CN
       6148, 
       61857, // DLC: Deluxe Pack
       61858, // DLC: The Forty Thieves
@@ -517,8 +517,8 @@
       63233, 
       63628, 
       63800, 
-      65787, 
-      65788
+      65787, // DLC: Desert Scorpion Pack
+      65788  // DLC: Celestial Weapons Pack
     ],
     "items": [
     ]
